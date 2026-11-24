@@ -1,4 +1,4 @@
-# MRPT hero video (mrpt_hero_v1.*): credits
+# MRPT hero video (mrpt_hero_v1.*, mrpt_hero_v2.avif): credits
 
 - Skybox "SunSet", from SkyboxSet by Heiko Irrgang (http://gamvas.com), based on a work at
   http://93i.de, licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/).
